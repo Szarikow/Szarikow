@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Szarikow
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP, HTML5, JS
+- 🌱 I’m currently learning PHP, HTML5, JS, LUA
 - 📫 How to reach me: Using discord: Szarikov#2372
